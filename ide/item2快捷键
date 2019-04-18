@@ -1,0 +1,9 @@
+## 常用快捷键
+
+- command + enter 全屏
+- ctrl + u 清除当前行
+- ctrl + k 从光标处删除到命令行尾部
+- ctrl + e 光标跳转到尾部
+- command + ; 根据当前前面输入的，查看输入历史
+- command + w; 删除光标前的单词
+- command + shift + h; 所有的输入历史
